@@ -1,0 +1,12 @@
+1.2.x
+
+1.2.0 :
+    python3 main.py
+
+1.2.5 :
+    进入 'client ver 1.2.5/dist/client ver 1.2.5' 目录
+    ./main （视情况可能要 chmod main 和 connect）
+
+Features:
+    解决网络问题：客户端断网，在不关闭终端的情况下，网络恢复，可以继续游戏。
+
